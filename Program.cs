@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace solo_prep_1
+namespace test_program
 {
     class Program
     {
